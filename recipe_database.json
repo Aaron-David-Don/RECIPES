@@ -1,0 +1,748 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Margherita Pizza",
+    "ingredients": [
+      "flour",
+      "yeast",
+      "tomato",
+      "mozzarella",
+      "basil",
+      "olive oil"
+    ],
+    "instructions": [
+      "Mix flour and yeast with water",
+      "Let dough rise for 1 hour",
+      "Roll out dough",
+      "Add tomato sauce and cheese",
+      "Bake at 450\u00b0F for 12-15 minutes",
+      "Garnish with fresh basil"
+    ],
+    "cookTime": 30,
+    "difficulty": "medium",
+    "servings": 4,
+    "calories": 266,
+    "protein": 11,
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Chicken Stir Fry",
+    "ingredients": [
+      "chicken",
+      "soy sauce",
+      "ginger",
+      "garlic",
+      "bell pepper",
+      "onion",
+      "rice"
+    ],
+    "instructions": [
+      "Cut chicken into strips",
+      "Heat oil in wok",
+      "Cook chicken until golden",
+      "Add vegetables",
+      "Add soy sauce and ginger",
+      "Serve over rice"
+    ],
+    "cookTime": 20,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 320,
+    "protein": 28,
+    "cuisine": "Asian",
+    "dietary": [
+      "gluten-free"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Curry",
+    "ingredients": [
+      "potato",
+      "carrot",
+      "peas",
+      "coconut milk",
+      "curry powder",
+      "onion",
+      "garlic",
+      "ginger"
+    ],
+    "instructions": [
+      "Saut\u00e9 onions and garlic",
+      "Add curry powder and ginger",
+      "Add vegetables and cook",
+      "Pour coconut milk",
+      "Simmer for 20 minutes",
+      "Serve with rice"
+    ],
+    "cookTime": 35,
+    "difficulty": "easy",
+    "servings": 6,
+    "calories": 180,
+    "protein": 5,
+    "cuisine": "Indian",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "name": "Caesar Salad",
+    "ingredients": [
+      "romaine lettuce",
+      "parmesan",
+      "croutons",
+      "egg",
+      "lemon",
+      "garlic",
+      "olive oil"
+    ],
+    "instructions": [
+      "Wash and chop lettuce",
+      "Make dressing with egg, lemon, garlic",
+      "Toss lettuce with dressing",
+      "Add parmesan and croutons",
+      "Serve immediately"
+    ],
+    "cookTime": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 184,
+    "protein": 7,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Spaghetti Carbonara",
+    "ingredients": [
+      "spaghetti",
+      "bacon",
+      "egg",
+      "parmesan",
+      "black pepper",
+      "garlic"
+    ],
+    "instructions": [
+      "Cook spaghetti",
+      "Fry bacon until crispy",
+      "Mix eggs and parmesan",
+      "Combine hot pasta with egg mixture",
+      "Add bacon and pepper",
+      "Serve immediately"
+    ],
+    "cookTime": 25,
+    "difficulty": "medium",
+    "servings": 4,
+    "calories": 420,
+    "protein": 18,
+    "cuisine": "Italian",
+    "dietary": [],
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "name": "Lentil Soup",
+    "ingredients": [
+      "lentils",
+      "carrot",
+      "celery",
+      "onion",
+      "garlic",
+      "tomato",
+      "vegetable broth"
+    ],
+    "instructions": [
+      "Saut\u00e9 vegetables",
+      "Add lentils and broth",
+      "Simmer for 30 minutes",
+      "Season to taste",
+      "Serve hot"
+    ],
+    "cookTime": 45,
+    "difficulty": "easy",
+    "servings": 6,
+    "calories": 165,
+    "protein": 12,
+    "cuisine": "Mediterranean",
+    "dietary": [
+      "vegetarian",
+      "vegan",
+      "gluten-free"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Beef Tacos",
+    "ingredients": [
+      "ground beef",
+      "taco seasoning",
+      "tortilla",
+      "lettuce",
+      "tomato",
+      "cheese",
+      "sour cream"
+    ],
+    "instructions": [
+      "Brown ground beef",
+      "Add taco seasoning",
+      "Warm tortillas",
+      "Assemble tacos with toppings",
+      "Serve with lime"
+    ],
+    "cookTime": 20,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 340,
+    "protein": 22,
+    "cuisine": "Mexican",
+    "dietary": [],
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Greek Salad",
+    "ingredients": [
+      "cucumber",
+      "tomato",
+      "feta",
+      "olive",
+      "red onion",
+      "olive oil",
+      "lemon"
+    ],
+    "instructions": [
+      "Chop vegetables",
+      "Crumble feta",
+      "Mix all ingredients",
+      "Dress with olive oil and lemon",
+      "Serve chilled"
+    ],
+    "cookTime": 10,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 145,
+    "protein": 5,
+    "cuisine": "Greek",
+    "dietary": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Pad Thai",
+    "ingredients": [
+      "rice noodles",
+      "shrimp",
+      "egg",
+      "peanuts",
+      "bean sprouts",
+      "lime",
+      "fish sauce",
+      "tamarind"
+    ],
+    "instructions": [
+      "Soak noodles",
+      "Scramble eggs",
+      "Cook shrimp",
+      "Stir fry noodles with sauce",
+      "Add peanuts and sprouts",
+      "Serve with lime"
+    ],
+    "cookTime": 25,
+    "difficulty": "medium",
+    "servings": 4,
+    "calories": 375,
+    "protein": 20,
+    "cuisine": "Thai",
+    "dietary": [
+      "gluten-free"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 10,
+    "name": "Mushroom Risotto",
+    "ingredients": [
+      "arborio rice",
+      "mushroom",
+      "onion",
+      "white wine",
+      "parmesan",
+      "butter",
+      "vegetable broth"
+    ],
+    "instructions": [
+      "Saut\u00e9 mushrooms",
+      "Toast rice",
+      "Add wine",
+      "Gradually add broth, stirring",
+      "Finish with butter and parmesan",
+      "Serve immediately"
+    ],
+    "cookTime": 40,
+    "difficulty": "hard",
+    "servings": 4,
+    "calories": 310,
+    "protein": 9,
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.6
+  },
+  {
+    "name": "Mushroom Spinach Risotto",
+    "ingredients": [
+      "2 cups of arborio rice",
+      "1 cup chopped mushrooms",
+      "1 cup fresh spinach",
+      "4 cups vegetable broth",
+      "1 onion, diced",
+      "2 cloves garlic, minced",
+      "1/2 cup white wine",
+      "1/4 cup grated Parmesan cheese",
+      "2 tablespoons olive oil",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Heat olive oil in a large pan over medium heat and saut\u00e9 onions and garlic until translucent.",
+      "Add the mushrooms and cook until they are soft.",
+      "Pour in the rice and stir for 2 minutes to lightly toast it, then deglaze the pan with white wine.",
+      "Add the vegetable broth one cup at a time, allowing the liquid to be absorbed before adding more, stirring often.",
+      "When the rice is almost cooked, add the spinach and cook until it wilts.",
+      "Remove from heat and stir in Parmesan cheese. Season with salt and pepper to taste.",
+      "Serve warm."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 11,
+    "timestamp": "2025-10-16T15:27:39.905865"
+  },
+  {
+    "name": "Mushroom Spinach Alfredo Pasta",
+    "ingredients": [
+      "mushrooms",
+      "spinach",
+      "alfredo sauce",
+      "pasta",
+      "olive oil",
+      "garlic",
+      "parmesan cheese"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "In a pan, heat olive oil over medium heat and saut\u00e9 garlic until fragrant. Add mushrooms and cook until they're browned.",
+      "Add spinach to the pan and cook until wilted.",
+      "Stir in the alfredo sauce and heat through.",
+      "Toss the cooked pasta with the sauce and vegetables, and sprinkle with parmesan cheese before serving."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 12,
+    "timestamp": "2025-10-16T16:15:13.664975"
+  },
+  {
+    "name": "Mushroom Spinach Pasta",
+    "ingredients": [
+      "200g pasta",
+      "150g mushrooms",
+      "100g spinach",
+      "2 cloves garlic",
+      "30g Parmesan cheese",
+      "1 tbsp olive oil",
+      "Salt",
+      "Pepper"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions.",
+      "While pasta cooks, heat olive oil in a pan, add finely chopped garlic and sliced mushrooms, saut\u00e9 until mushrooms are golden.",
+      "Add spinach to the pan, cook until wilted.",
+      "Drain pasta and mix with the saut\u00e9ed vegetables. Season with salt and pepper.",
+      "Serve hot, topped with grated Parmesan cheese."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "Italian",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 13,
+    "timestamp": "2025-10-16T16:18:55.851764"
+  },
+  {
+    "name": "Avocado Toast",
+    "ingredients": [
+      "ripe avocados",
+      "whole grain bread",
+      "salt",
+      "pepper",
+      "lemon juice",
+      "chili flakes"
+    ],
+    "instructions": [
+      "Toast the whole grain bread until golden brown.",
+      "In a bowl, mash the ripe avocados with lemon juice, salt, and pepper.",
+      "Spread the mashed avocado on the toasted bread.",
+      "Sprinkle chili flakes on top for added flavor."
+    ],
+    "cookTime": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 250,
+    "protein": 8,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 14,
+    "timestamp": "2025-10-16T17:09:52.044110"
+  },
+  {
+    "name": "Avocado Toast",
+    "ingredients": [
+      "2 ripe avocados",
+      "4 slices of whole grain bread",
+      "1 lemon",
+      "Salt",
+      "Pepper",
+      "Red pepper flakes",
+      "Olive oil"
+    ],
+    "instructions": [
+      "Toast the whole grain bread slices until golden brown.",
+      "In a bowl, mash the avocados and mix in the juice of one lemon, salt, and pepper.",
+      "Spread the mashed avocado evenly onto the toasted bread.",
+      "Drizzle with olive oil and sprinkle with red pepper flakes before serving."
+    ],
+    "cookTime": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 15,
+    "timestamp": "2025-10-16T17:10:24.108410"
+  },
+  {
+    "name": "Avocado Toast with Poached Egg",
+    "ingredients": [
+      "2 ripe avocados",
+      "4 slices of whole grain bread",
+      "4 eggs",
+      "1 tablespoon lemon juice",
+      "Salt to taste",
+      "Pepper to taste",
+      "Red pepper flakes (optional)",
+      "Fresh herbs (optional)"
+    ],
+    "instructions": [
+      "Toast the slices of whole grain bread until golden brown.",
+      "In a bowl, mash the avocados with lemon juice, salt, and pepper.",
+      "Spread the mashed avocado evenly on each slice of toasted bread.",
+      "Bring a pot of water to a gentle simmer and poach the eggs for about 3-4 minutes.",
+      "Remove the poached eggs and place one on each avocado toast.",
+      "Sprinkle with red pepper flakes and fresh herbs if desired."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 16,
+    "timestamp": "2025-10-16T17:10:40.761691"
+  },
+  {
+    "name": "Marshmallow Chocolate Fondue",
+    "ingredients": [
+      "marshmallows",
+      "dark chocolate",
+      "heavy cream",
+      "strawberries",
+      "banana slices"
+    ],
+    "instructions": [
+      "In a saucepan, combine dark chocolate and heavy cream over low heat, stirring until melted and smooth.",
+      "Once the chocolate mixture is ready, pour it into a fondue pot. Skewer marshmallows and fruits on fondue forks and dip into the warm chocolate."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 17,
+    "timestamp": "2025-10-16T17:10:57.475913"
+  },
+  {
+    "name": "Marshmallow Chocolate Crisp Treats",
+    "ingredients": [
+      "3 cups rice cereal",
+      "2 cups mini marshmallows",
+      "1/4 cup butter",
+      "1 cup chocolate chips"
+    ],
+    "instructions": [
+      "In a large saucepan, melt butter over low heat.",
+      "Add mini marshmallows and stir until completely melted.",
+      "Remove from heat and add rice cereal, stirring until well combined.",
+      "Spread the mixture into a greased 9x13 inch pan and press down firmly.",
+      "Melt chocolate chips in a microwave or double boiler and pour over the top of the treats.",
+      "Allow to cool before cutting into squares."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 18,
+    "timestamp": "2025-10-16T17:12:26.711349"
+  },
+  {
+    "name": "Marshmallow Chocolate Fondue",
+    "ingredients": [
+      "marshmallows",
+      "chocolate chips",
+      "heavy cream",
+      "strawberries",
+      "banana slices"
+    ],
+    "instructions": [
+      "In a saucepan, combine chocolate chips and heavy cream over low heat, stirring until melted and smooth.",
+      "Once melted, remove from heat and stir in marshmallows until well coated. Serve with strawberries and banana slices for dipping."
+    ],
+    "cookTime": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 19,
+    "timestamp": "2025-10-16T17:12:39.059292"
+  },
+  {
+    "name": "Watermelon and Dragon Fruit Salad",
+    "ingredients": [
+      "watermelon",
+      "dragon fruit",
+      "lime juice",
+      "mint leaves",
+      "honey"
+    ],
+    "instructions": [
+      "Cube the watermelon and dragon fruit into bite-sized pieces.",
+      "In a bowl, combine the watermelon, dragon fruit, lime juice, and honey. Toss gently.",
+      "Chill the salad in the refrigerator for 15 minutes.",
+      "Garnish with fresh mint leaves before serving."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "fusion",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 20,
+    "timestamp": "2025-10-16T17:13:41.215784"
+  },
+  {
+    "name": "Avocado Salad",
+    "ingredients": [
+      "2 ripe avocados",
+      "1 cup cherry tomatoes",
+      "1/2 red onion",
+      "1 lime",
+      "1/4 cup cilantro",
+      "salt",
+      "pepper"
+    ],
+    "instructions": [
+      "Cut the avocados in half, remove the pit, and scoop the flesh into a bowl.",
+      "Dice the cherry tomatoes and red onion, and add them to the bowl.",
+      "Chop the cilantro and add it to the mixture.",
+      "Squeeze the lime juice over the salad, and season with salt and pepper to taste.",
+      "Gently toss everything together and serve."
+    ],
+    "cookTime": 15,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 250,
+    "protein": 5,
+    "cuisine": "Mexican",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 21,
+    "timestamp": "2025-10-16T17:14:32.400111"
+  },
+  {
+    "name": "S'mores Dip",
+    "ingredients": [
+      "marshmallows",
+      "chocolate chips",
+      "graham crackers"
+    ],
+    "instructions": [
+      "Preheat the oven to 350\u00b0F (175\u00b0C).",
+      "In an oven-safe dish, layer chocolate chips evenly at the bottom, then top with marshmallows.",
+      "Bake in the oven for 10-12 minutes until the marshmallows are golden brown.",
+      "Serve warm with graham crackers for dipping."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 22,
+    "timestamp": "2025-10-16T17:14:51.158872"
+  },
+  {
+    "name": "Avocado Toast with Poached Eggs",
+    "ingredients": [
+      "2 ripe avocados",
+      "4 slices of whole grain bread",
+      "4 eggs",
+      "1 tablespoon lemon juice",
+      "Salt and pepper to taste",
+      "Red pepper flakes (optional)",
+      "Fresh herbs for garnish"
+    ],
+    "instructions": [
+      "Toast the slices of whole grain bread until golden brown.",
+      "In a bowl, mash the avocados with lemon juice, salt, and pepper.",
+      "Spread the mashed avocado evenly on the toasted bread.",
+      "In a pot, bring water to a gentle simmer and poach the eggs for about 3-4 minutes.",
+      "Place a poached egg on each avocado toast.",
+      "Sprinkle with red pepper flakes and fresh herbs for garnish."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 23,
+    "timestamp": "2025-10-16T17:15:11.262127"
+  },
+  {
+    "name": "Blueberry Muffins",
+    "ingredients": [
+      "1 cup fresh blueberries",
+      "2 cups all-purpose flour",
+      "1 cup sugar",
+      "1/2 cup butter",
+      "2 eggs",
+      "1 cup milk",
+      "2 teaspoons baking powder",
+      "1 teaspoon vanilla extract",
+      "1/2 teaspoon salt"
+    ],
+    "instructions": [
+      "Preheat the oven to 375\u00b0F (190\u00b0C).",
+      "In a mixing bowl, cream the butter and sugar together.",
+      "Add the eggs and vanilla extract, mixing well.",
+      "In another bowl, combine the flour, baking powder, and salt.",
+      "Gradually add the dry ingredients to the wet mixture, alternating with milk.",
+      "Gently fold in the blueberries.",
+      "Spoon the batter into a greased muffin tin.",
+      "Bake for 20-25 minutes or until a toothpick comes out clean."
+    ],
+    "cookTime": 30,
+    "difficulty": "easy",
+    "servings": 4,
+    "calories": 300,
+    "protein": 15,
+    "cuisine": "American",
+    "dietary": [
+      "vegetarian"
+    ],
+    "rating": 4.5,
+    "fromLLM": true,
+    "id": 24,
+    "timestamp": "2025-10-16T17:15:49.230989"
+  }
+]
